@@ -1,1 +1,9 @@
-
+REM Simple ducky script to rick roll your friends on a windows machine - this can get better by adding script to max the volume and render the keyboard useless
+DELAY 500
+GUI R
+String https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1
+DELAY 500
+ENTER
+DELAY 500
+SPACE
+DELAY 500
