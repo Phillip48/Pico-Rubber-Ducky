@@ -2,9 +2,13 @@
 [Raspberry Pi Pico](https://thepihut.com/products/raspberry-pi-pico) is a small flexilbe microcontroller. In this case we'll be using it to create a small rubber ducky. There are some downsides to doing this rather than just buying the rubber ducky from HAK5, HOWEVER this is way more affordable. 
 
 ## Table of Contents 
+[Disclaimer](#disclaimer) <BR>
 [Hardware](#hardware) <BR>
 [Important links](#important-links)<BR>
 [Steps To Install](#steps-to-install)<BR>
+
+## Disclaimer
+This is for educational purposes only and should not be used for malicious activites.
 
 ## Hardware
 To build this there are a few things you'll need:
